@@ -7,35 +7,35 @@ This project aims at building a model which classifies whether the news given is
 
 
 ### Concepts Involved
-• Supervised Learning
-• Text pre-processing
-• Vectorization
-• Scikit learn NLP imports
-• Natural Language Tool Kit (NLTK)
-• ML Classifiers
+• Supervised Learning </br>
+• Text pre-processing </br>
+• Vectorization </br>
+• Scikit learn NLP imports </br>
+• Natural Language Tool Kit (NLTK) </br>
+• ML Classifiers </br>
 
 
 ### Details of Dataset
-We used datasets
-• fake.csv
-• true .csv
+We used datasets </br>
+• fake.csv </br>
+• true .csv </br>
 
 COLUMNS :
 [TITLE, TEXT ,SUBJECT, DATE]
 
-NO-of- rows :
-Fake.csv- 23481
-True.csv- 21417
+NO-of- rows : </br>
+Fake.csv- 23481 </br>
+True.csv- 21417 </br>
 
-THERE are different subjects involved
--------false
-News 9050
-politics 6841
-left-news 4459
-Government News 1570
-US_News 783
-Middle-east 778
+THERE are different subjects involved </br>
+-------false </br>
+News 9050 </br>
+politics 6841 </br>
+left-news 4459 </br>
+Government News 1570 </br>
+US_News 783 </br>
+Middle-east 778 </br>
 
--------True
-politicsNews 11272
-worldnews 10145
+-------True </br>
+politicsNews 11272 </br>
+worldnews 10145 </br>
