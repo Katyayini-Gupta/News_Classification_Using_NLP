@@ -1,11 +1,12 @@
-# News-Classification-Using-NLP
+## News-Classification-Using-NLP
 News Classification Using NLP - Inmovidu Internship Project
 
 
-## Objective
+### Objective
 This project aims at building a model which classifies whether the news given is genuine news or false news by using Natural Language Processing .
 
-## Concepts Involved
+
+### Concepts Involved
 • Supervised Learning
 • Text pre-processing
 • Vectorization
@@ -14,7 +15,7 @@ This project aims at building a model which classifies whether the news given is
 • ML Classifiers
 
 
-## Details of Dataset
+### Details of Dataset
 We used datasets
 • fake.csv
 • true .csv
